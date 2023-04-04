@@ -15,6 +15,7 @@ h3{
 	text-decoration: none;
 	color: 	#2F4F4F;
 	margin-bottom: 10px ;
+	text-indent: 50px;
 }
 
 
@@ -57,4 +58,8 @@ img.kino{
 
 i{
 	color: #b32d00;
+}
+
+p {
+	text-indent: 15px;
 }
